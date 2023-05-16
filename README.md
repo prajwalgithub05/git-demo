@@ -2,9 +2,6 @@
 
 This is first file in this repo
 
-this is second comment
+#website content
+1) index.html
 
-#ggdgdghddjjd
-hshhkhfkjhf
-dhgdfgkjdsfjhds
-dfhgdfgdsjfkjsd
